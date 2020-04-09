@@ -7,7 +7,3 @@ POST 127.0.0.1:8000/products/ with content-type: application/json and data: {"na
 
 Other requests:\
 OPTIONS (127.0.0.1:8000/products/), OPTIONS (127.0.0.1:8000/products/1/), DELETE (127.0.0.1:8000/products/1/)
-
-
-Postman:\
-https://www.getpostman.com/collections/f0870325551a41616843
